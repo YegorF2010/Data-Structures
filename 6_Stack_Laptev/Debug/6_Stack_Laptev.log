@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  6_Stack_Laptev.cpp
+f:\yandexdisk\projects\programming\visual studio\vsc++\programs\динамические структуры\6_stack_laptev\6_stack_laptev.cpp(28): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+f:\yandexdisk\projects\programming\visual studio\vsc++\programs\динамические структуры\6_stack_laptev\6_stack_laptev.cpp(34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  6_Stack_Laptev.vcxproj -> F:\YandexDisk\projects\programming\Visual Studio\VSC++\programs\Динамические структуры\Debug\6_Stack_Laptev.exe
