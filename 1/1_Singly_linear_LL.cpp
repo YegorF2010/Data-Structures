@@ -7,7 +7,7 @@
 
 using namespace std;
 
-struct Link {
+struct Link {				//создаем узел
 	Link* next;
 	int data;
 };
